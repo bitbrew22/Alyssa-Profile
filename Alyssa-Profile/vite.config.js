@@ -6,7 +6,7 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vitejs.dev/config/
 export default defineConfig({
   // --- Add this 'base' property for GitHub Pages ---
-  base: "/<Alyssa-Profile>/", // TODO: Replace <repository-name> with your repo name! e.g., "/Alyssa-Profile/"
+  base: "/Alyssa-Profile/", // TODO: Replace <repository-name> with your repo name! e.g., "/Alyssa-Profile/"
   // --------------------------------------------------
 
   plugins: [
