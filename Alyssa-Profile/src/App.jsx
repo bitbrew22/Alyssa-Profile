@@ -157,7 +157,7 @@ function App() {
               </a>
             </div>
             {/* Copyright */}
-            <p className="text-sm">&copy; 2025 Alyssa Breland. All rights reserved.</p>
+            <p className="text-sm">&copy; {new Date().getFullYear()} Alyssa Breland. All rights reserved.</p>
           </div>
         </footer>
 
